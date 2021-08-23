@@ -1,2 +1,5 @@
 # Project
-# next
+<<<<<<< HEAD
+=======
+# just do it
+>>>>>>> develop
